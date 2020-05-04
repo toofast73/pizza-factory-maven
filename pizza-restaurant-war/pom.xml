@@ -25,12 +25,6 @@
             <version>${project.parent.version}</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.audemarspiguet</groupId>
-            <artifactId>royal-oak</artifactId>
-            <version>1.5.5.00</version>
-        </dependency>
-
     </dependencies>
 
 
