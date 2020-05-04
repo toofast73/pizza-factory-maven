@@ -27,8 +27,6 @@
             <id>github</id>
             <name>github</name>
             <url>https://maven.pkg.github.com/toofast73/pizzafactorymaven</url>
-
-            <!--  <url>http://localhost:8081/nexus/content/repositories/releases</url>-->
         </repository>
     </distributionManagement>
 
