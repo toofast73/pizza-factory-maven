@@ -7,7 +7,7 @@ public class RestaurantTest {
 
     @Test
     public void testSomething() throws InterruptedException {
-        Thread.sleep(3000);
+        Thread.sleep(3);
         Assert.assertTrue(true);
     }
 }
